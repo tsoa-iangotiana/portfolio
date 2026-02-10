@@ -102,7 +102,7 @@ Jeune développeuse Full Stack passionnée par le développement web et logiciel
 
 ## 📄 Documents
 
-- [Télécharger mon CV](assets/docs/CV_2026-02-10_Henintsoa Iangotiana_Rafalimanana.pdf)  
+- [Télécharger mon CV](assets/docs/CV_Henintsoa_2026.pdf)  
 
 ---
 
